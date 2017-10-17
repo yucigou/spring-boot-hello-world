@@ -24,3 +24,4 @@ The main() method uses Spring Boot’s SpringApplication.run() method to launch 
 
 * https://spring.io/guides/gs/spring-boot/
 * https://docs.spring.io/spring-boot/docs/1.5.8.RELEASE/maven-plugin/
+* https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-command-line-runner
