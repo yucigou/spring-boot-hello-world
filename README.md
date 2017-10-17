@@ -10,7 +10,7 @@ Then access http://localhost:8080 from the browser.
 
 The main() method uses Spring Boot’s SpringApplication.run() method to launch an application. There isn't a single line of XML. No web.xml file either. This web application is 100% pure Java and you didn’t have to deal with configuring any plumbing or infrastructure.
 
-# pom.xml
+# Maven pom.xml
 
 ## Spring Boot Maven plugin
 
